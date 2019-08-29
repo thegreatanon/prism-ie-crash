@@ -1,0 +1,13 @@
+import { NgModule } from '@angular/core';
+import { BrowserModule } from '@angular/platform-browser';
+import { FormsModule } from '@angular/forms';
+import { PrismModule } from '@ngx-prism/core';
+
+import { AppComponent } from './app.component';
+
+@NgModule({
+  imports:      [ BrowserModule, FormsModule, PrismModule ],
+  declarations: [ AppComponent ],
+  bootstrap:    [ AppComponent ]
+})
+export class AppModule { }
