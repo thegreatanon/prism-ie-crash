@@ -13,7 +13,7 @@
         "@ngx-prism/core": "^2.0.1",
         "@types/prismjs": "^1.9.0",
         "core-js": "^3.2.1",
-        "lodash-es": "^4.17.15",
+        "lodash-es": "^4.17.21",
         "prismjs": "^1.9.0",
         "rxjs": "^6.5.2",
         "zone.js": "^0.9.1"
